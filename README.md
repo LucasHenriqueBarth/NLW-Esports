@@ -71,7 +71,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev 
 
-Para acessar Aplicação acesse <http://localhost:5173>
+#Para acessar Aplicação acesse <http://localhost:5173>
 
 ```
 
