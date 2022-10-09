@@ -84,3 +84,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+<br>
+  <td align="center"><a href="https://github.com/LucasHenriqueBarth"><img src="https://avatars.githubusercontent.com/u/113722280?v=4" width="100px;" alt="Lucas Barth"/><br /><sub><b>Lucas Barth</b></sub></a><br /><a href="https://github.com/LucasHenriqueBarth/Nlw-eSports" title="Code">💻</a></td>
