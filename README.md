@@ -29,3 +29,50 @@ Ao criar anúncios, outros usuários poderão ver os anúncios criados no app.
 <h3> Tela 3 </h3>
 <p>  Ao clicar no botão de se conectar aparecerá o nome do discord do jogador escolhido para copiar e encontrar ele no discord para marcar uma partida. </p>
 <img alt="tela1" title="#Tela1VersãoWeb" src="./img/MobileTela3.png" />
+
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/LucasHenriqueBarth/Nlw-eSports/>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd NLW
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev 
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+
+```
+
+### 🎲 Rodando o Front End (Aplicação)
+
+```bash
+# Abra outro terminal e acesse a pasta web 
+$ cd web
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev 
+
+Para acessar Aplicação acesse <http://localhost:5173>
+
+```
+
+
