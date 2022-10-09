@@ -9,7 +9,7 @@
 <h1 align="center"> 💻 Versão Web</h1>
 <h3> Tela 1 </h3>
 <p align="center">  É usada para ver os jogos no qual quer encontrar outro jogador para jogar  </p>
-<img alt="tela1" title="#Tela1VersãoWeb" src="./img/WebTela1.png" />
+<img alt="tela1" title="#Tela1VersãoWeb" src="./img/WebTala1.png" />
 
 <h3> Tela 2 </h3>
 <p align="center"> O usuário cria um anúncio para o jogo escolhido onde preenche o formulário com as informações nome do jogo, nome(ou nickname), quantos anos joga, qual seu discord, quando costuma jogar, qual horário do dia e se costuma se conectar ao chat de voz. 
