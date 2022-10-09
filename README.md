@@ -41,7 +41,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/LucasHenriqueBarth/Nlw-eSports/>
+$ git clone <https://github.com/LucasHenriqueBarth/Nlw-eSports>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd NLW
@@ -75,4 +75,12 @@ Para acessar Aplicação acesse <http://localhost:5173>
 
 ```
 
+### 🛠 Tecnologias
 
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
